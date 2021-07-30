@@ -14,9 +14,9 @@ Implementation of *creational design pattern* in Java.
 - **offline 2/problem 2** is the implementation of *singleton* with *abstract factory* pattern of creational design pattern.
 
 ## Offline 3
-Implementation of *sructural design pattern* in Java.
-- **offline 3/problem 1** is the implementation of *adapter* pattern of sructural design pattern.
-- **offline 3/problem 2** is the implementation of *decorator* pattern of sructural design pattern.
+Implementation of *structural design pattern* in Java.
+- **offline 3/problem 1** is the implementation of *adapter* pattern of structural design pattern.
+- **offline 3/problem 2** is the implementation of *decorator* pattern of structural design pattern.
 
 ## Offline 4
 Implementation of *behavioural design pattern* in Java.
