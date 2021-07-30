@@ -11,7 +11,7 @@ Implementation of basic OOP (Object Oriented Programming) concepts in Java.
 ## Offline 2
 Implementation of *creational design pattern* in Java.
 - **offline 2/problem 1** is the implementation of *builder pattern* with *abstract factory pattern* of creational design pattern.
-- **offline 2/problem 2** is the implementation of *singleton pattren* with *abstract factory pattern* of creational design pattern.
+- **offline 2/problem 2** is the implementation of *singleton pattern* with *abstract factory pattern* of creational design pattern.
 
 ## Offline 3
 Implementation of *structural design pattern* in Java.
